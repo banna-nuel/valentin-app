@@ -1,13 +1,21 @@
-# Android
-build/
-.gradle/
-*.iml
-.idea/
-local.properties
+# Common
+node_modules/
 .DS_Store
-captures/
-.externalNativeBuild
-.cxx
-*.apk
-*.aar
-*.jks
+.env
+.env.local
+.env.*.local
+
+# Android (valentin-widget)
+valentin-widget/build/
+valentin-widget/.gradle/
+valentin-widget/.idea/
+valentin-widget/local.properties
+valentin-widget/*.iml
+valentin-widget/captures/
+
+# Web (valentin-web)
+valentin-web/.next/
+valentin-web/out/
+valentin-web/node_modules/
+valentin-web/build/
+valentin-web/.env*
