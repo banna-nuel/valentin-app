@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#fff8f0">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:padding="24dp">
+
+        <!-- Header -->
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="💕 Widget Valentin"
+            android:textSize="22sp"
+            android:textStyle="bold"
+            android:textColor="#ff6b9d"
+            android:layout_marginBottom="4dp"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Personaliza cómo se ve tu widget"
+            android:textSize="13sp"
+            android:textColor="#b08888"
+            android:layout_marginBottom="28dp"/>
+
+        <!-- TAMAÑO -->
+        <TextView android:layout_width="wrap_content" android:layout_height="wrap_content"
+            android:text="Tamaño" android:textSize="14sp" android:textColor="#ff6b9d"
+            android:textStyle="bold" android:layout_marginBottom="10dp"/>
+
+        <RadioGroup android:id="@+id/rg_size"
+            android:layout_width="match_parent" android:layout_height="wrap_content"
+            android:layout_marginBottom="24dp">
+            <RadioButton android:id="@+id/rb_1x1" android:layout_width="wrap_content"
+                android:layout_height="wrap_content" android:text="1×1  —  Solo emoji"
+                android:textColor="#3d2020" android:buttonTint="#ff6b9d" android:layout_marginBottom="8dp"/>
+            <RadioButton android:id="@+id/rb_2x1" android:layout_width="wrap_content"
+                android:layout_height="wrap_content" android:text="2×1  —  Emoji + estado"
+                android:textColor="#3d2020" android:buttonTint="#ff6b9d" android:layout_marginBottom="8dp"/>
+            <RadioButton android:id="@+id/rb_2x2" android:layout_width="wrap_content"
+                android:layout_height="wrap_content" android:text="2×2  —  Completo"
+                android:checked="true" android:textColor="#3d2020" android:buttonTint="#ff6b9d" android:layout_marginBottom="8dp"/>
+            <RadioButton android:id="@+id/rb_4x2" android:layout_width="wrap_content"
+                android:layout_height="wrap_content" android:text="4×2  —  Grande"
+                android:textColor="#3d2020" android:buttonTint="#ff6b9d"/>
+        </RadioGroup>
+
+        <!-- FONDO -->
+        <TextView android:layout_width="wrap_content" android:layout_height="wrap_content"
+            android:text="Fondo del widget" android:textSize="14sp" android:textColor="#ff6b9d"
+            android:textStyle="bold" android:layout_marginBottom="10dp"/>
+
+        <RadioGroup android:id="@+id/rg_bg"
+            android:layout_width="match_parent" android:layout_height="wrap_content"
+            android:layout_marginBottom="24dp">
+            <RadioButton android:id="@+id/rb_bg_transparent" android:layout_width="wrap_content"
+                android:layout_height="wrap_content" android:text="Transparente"
+                android:checked="true" android:textColor="#3d2020" android:buttonTint="#ff6b9d" android:layout_marginBottom="8dp"/>
+            <RadioButton android:id="@+id/rb_bg_dark" android:layout_width="wrap_content"
+                android:layout_height="wrap_content" android:text="Oscuro semitransparente"
+                android:textColor="#3d2020" android:buttonTint="#ff6b9d" android:layout_marginBottom="8dp"/>
+            <RadioButton android:id="@+id/rb_bg_rose" android:layout_width="wrap_content"
+                android:layout_height="wrap_content" android:text="Rosa semitransparente"
+                android:textColor="#3d2020" android:buttonTint="#ff6b9d" android:layout_marginBottom="8dp"/>
+            <RadioButton android:id="@+id/rb_bg_light" android:layout_width="wrap_content"
+                android:layout_height="wrap_content" android:text="Blanco semitransparente"
+                android:textColor="#3d2020" android:buttonTint="#ff6b9d"/>
+        </RadioGroup>
+
+        <!-- MOSTRAR HORA -->
+        <TextView android:layout_width="wrap_content" android:layout_height="wrap_content"
+            android:text="Opciones" android:textSize="14sp" android:textColor="#ff6b9d"
+            android:textStyle="bold" android:layout_marginBottom="10dp"/>
+
+        <CheckBox android:id="@+id/cb_show_time"
+            android:layout_width="wrap_content" android:layout_height="wrap_content"
+            android:text="Mostrar hora" android:checked="true"
+            android:textColor="#3d2020" android:buttonTint="#ff6b9d" android:layout_marginBottom="8dp"/>
+
+        <CheckBox android:id="@+id/cb_show_sender"
+            android:layout_width="wrap_content" android:layout_height="wrap_content"
+            android:text="Mostrar nombre de quien envió"
+            android:checked="true" android:textColor="#3d2020"
+            android:buttonTint="#ff6b9d" android:layout_marginBottom="32dp"/>
+
+        <!-- BOTÓN GUARDAR -->
+        <Button android:id="@+id/btn_save"
+            android:layout_width="match_parent" android:layout_height="52dp"
+            android:text="Guardar widget 💕"
+            android:backgroundTint="#ff6b9d"
+            android:textColor="#ffffff"
+            android:textSize="16sp"
+            android:textStyle="bold"/>
+
+    </LinearLayout>
+</ScrollView>
