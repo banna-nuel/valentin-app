@@ -1,0 +1,4 @@
+com.valentin.app.test.app-androidTest-0 C:\valentinApp\valentin-widget\app\build\generated\res\resValues\androidTest\debug
+com.valentin.app.test.app-mergeDebugAndroidTestResources-1 C:\valentinApp\valentin-widget\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\merged.dir
+com.valentin.app.test.app-mergeDebugAndroidTestResources-2 C:\valentinApp\valentin-widget\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\stripped.dir
+com.valentin.app.test.app-merged_res-3 C:\valentinApp\valentin-widget\app\build\intermediates\merged_res\debugAndroidTest

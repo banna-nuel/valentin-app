@@ -1,0 +1,114 @@
+[
+    {
+        "merged": "com.valentin.app-merged_res-20:/xml_network_security_config.xml.flat",
+        "source": "com.valentin.app-main-22:/xml/network_security_config.xml"
+    },
+    {
+        "merged": "com.valentin.app-merged_res-20:/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "com.valentin.app-main-22:/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.valentin.app-merged_res-20:/layout_widget_1x1.xml.flat",
+        "source": "com.valentin.app-main-22:/layout/widget_1x1.xml"
+    },
+    {
+        "merged": "com.valentin.app-merged_res-20:/layout_widget_config.xml.flat",
+        "source": "com.valentin.app-main-22:/layout/widget_config.xml"
+    },
+    {
+        "merged": "com.valentin.app-merged_res-20:/layout_widget_inner_2x2.xml.flat",
+        "source": "com.valentin.app-main-22:/layout/widget_inner_2x2.xml"
+    },
+    {
+        "merged": "com.valentin.app-merged_res-20:/layout_widget_2x1.xml.flat",
+        "source": "com.valentin.app-main-22:/layout/widget_2x1.xml"
+    },
+    {
+        "merged": "com.valentin.app-merged_res-20:/drawable_widget_background.xml.flat",
+        "source": "com.valentin.app-main-22:/drawable/widget_background.xml"
+    },
+    {
+        "merged": "com.valentin.app-merged_res-20:/mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "com.valentin.app-main-22:/mipmap-mdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.valentin.app-merged_res-20:/drawable_widget_bg_light.xml.flat",
+        "source": "com.valentin.app-main-22:/drawable/widget_bg_light.xml"
+    },
+    {
+        "merged": "com.valentin.app-merged_res-20:/mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "com.valentin.app-main-22:/mipmap-xhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.valentin.app-merged_res-20:/layout_widget_4x2.xml.flat",
+        "source": "com.valentin.app-main-22:/layout/widget_4x2.xml"
+    },
+    {
+        "merged": "com.valentin.app-merged_res-20:/xml_mood_widget_info.xml.flat",
+        "source": "com.valentin.app-main-22:/xml/mood_widget_info.xml"
+    },
+    {
+        "merged": "com.valentin.app-merged_res-20:/drawable_widget_bg_rose.xml.flat",
+        "source": "com.valentin.app-main-22:/drawable/widget_bg_rose.xml"
+    },
+    {
+        "merged": "com.valentin.app-merged_res-20:/mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "com.valentin.app-main-22:/mipmap-xxxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.valentin.app-merged_res-20:/layout_activity_main.xml.flat",
+        "source": "com.valentin.app-main-22:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.valentin.app-merged_res-20:/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "com.valentin.app-main-22:/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.valentin.app-merged_res-20:/layout_widget_inner_4x2.xml.flat",
+        "source": "com.valentin.app-main-22:/layout/widget_inner_4x2.xml"
+    },
+    {
+        "merged": "com.valentin.app-merged_res-20:/mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "com.valentin.app-main-22:/mipmap-hdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.valentin.app-merged_res-20:/layout_widget_inner_2x1.xml.flat",
+        "source": "com.valentin.app-main-22:/layout/widget_inner_2x1.xml"
+    },
+    {
+        "merged": "com.valentin.app-merged_res-20:/layout_widget_mood.xml.flat",
+        "source": "com.valentin.app-main-22:/layout/widget_mood.xml"
+    },
+    {
+        "merged": "com.valentin.app-merged_res-20:/layout_widget_2x2.xml.flat",
+        "source": "com.valentin.app-main-22:/layout/widget_2x2.xml"
+    },
+    {
+        "merged": "com.valentin.app-merged_res-20:/layout_widget_inner_1x1.xml.flat",
+        "source": "com.valentin.app-main-22:/layout/widget_inner_1x1.xml"
+    },
+    {
+        "merged": "com.valentin.app-merged_res-20:/drawable_widget_bg_dark.xml.flat",
+        "source": "com.valentin.app-main-22:/drawable/widget_bg_dark.xml"
+    },
+    {
+        "merged": "com.valentin.app-merged_res-20:/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "com.valentin.app-main-22:/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.valentin.app-merged_res-20:/drawable_widget_bg_rounded.xml.flat",
+        "source": "com.valentin.app-main-22:/drawable/widget_bg_rounded.xml"
+    },
+    {
+        "merged": "com.valentin.app-merged_res-20:/mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "com.valentin.app-main-22:/mipmap-xxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.valentin.app-merged_res-20:/mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "com.valentin.app-main-22:/mipmap-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.valentin.app-merged_res-20:/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "com.valentin.app-main-22:/mipmap-xhdpi/ic_launcher.png"
+    }
+]
